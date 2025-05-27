@@ -153,8 +153,6 @@ set gender = 'M'
 where gender  = 'Male'
 
 
-st
-
 update sales 
 set gender = 'F'
 where gender = 'Female'
